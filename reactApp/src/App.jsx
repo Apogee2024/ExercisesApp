@@ -16,7 +16,7 @@ function App() {
         <h1>
         Apogee Performance
         </h1>
-        <p>a app to keep track of PRs!</p>
+        <p>an app to keep track of PRs!</p>
       </header>
         <Router>
           <Navigation />
